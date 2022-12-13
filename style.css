@@ -1,0 +1,47 @@
+.cart {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 15px;
+    
+}
+.cartimg {
+    height: 85px;
+    
+}
+.h {
+    color: rgb(170, 167, 167);
+    margin-left: 10px;
+    padding-left: 8px;
+}
+.body {
+    background-color:rgb(22, 21, 21);
+    
+}
+.butcart {
+    margin-left: 10px;
+    
+}
+.butimgfirst {
+    height: 125px;
+    width: 200px;
+}
+.cartbut {
+    background-color: rgb(5, 5, 5);
+    border: black;
+    margin-left: 10px;
+}
+.cartbut:hover {
+    cursor: pointer;
+    background-color: rgba(73, 69, 69, 0.322) ;
+}
+.hots {
+    
+    display: flex;
+
+}
+.butimgtwo {
+    height: 125px;
+    width: 200px;
+    padding-left: 20px;
+}
