@@ -11,37 +11,53 @@
 }
 .h {
     color: rgb(170, 167, 167);
-    margin-left: 10px;
-    padding-left: 8px;
+    margin-left: 30px;
 }
 .body {
     background-color:rgb(22, 21, 21);
-    
+    padding: 0px;
+    margin: 0px;
 }
 .butcart {
     margin-left: 10px;
     
 }
 .butimgfirst {
-    height: 125px;
-    width: 200px;
+    height: 150px;
+    width: 230px;
+    
 }
 .cartbut {
-    background-color: rgb(5, 5, 5);
+    background-color: black;
     border: black;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 .cartbut:hover {
     cursor: pointer;
     background-color: rgba(73, 69, 69, 0.322) ;
 }
-.hots {
-    
-    display: flex;
-
+.a {
+    color: rgb(170, 167, 167);
 }
-.butimgtwo {
-    height: 125px;
-    width: 200px;
-    padding-left: 20px;
+.download {
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+    background-image: linear-gradient(rgb(255, 230, 88),goldenrod) ;
+    border: gold;
+}
+.last {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.download:hover {
+    cursor: pointer;
+}
+.version {
+margin-left: 30px;}
+.atwo {
+    color: rgb(170, 167, 167);
+    display: flex;
+    font-size: 20px;
 }
